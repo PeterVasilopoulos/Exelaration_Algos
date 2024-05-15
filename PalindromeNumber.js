@@ -1,4 +1,4 @@
-function isPalindrome = function(x) {
+function isPalindrome(x) {
     let result = ""
     
     x = x.toString()
